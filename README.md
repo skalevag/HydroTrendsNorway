@@ -8,3 +8,4 @@ Streamflow, rainfall, snowmelt and temperature data from 207 catchments in Norwa
 * [Selection of catchments and assesments of data quality](Catchment-selection.ipynb)
 * [Annual trend analysis](Annual-trends.ipynb)
 * Daily trend analysis [with significance level](runTrendAnalysis.py) and [without significance level](runTrendMagnitude.py) and [plotting](Daily trends.ipynb)
+* Various figures
