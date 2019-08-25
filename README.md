@@ -1,4 +1,4 @@
-# dailyHydroTrends
+# Daily hydrological trend analysis
 
 Python code used as part of a research project and dissertation for the MSc Environmental Modelling at UCL.
 
