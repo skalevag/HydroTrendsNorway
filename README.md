@@ -10,3 +10,5 @@ Streamflow, rainfall, snowmelt and temperature data from 207 catchments in Norwa
 * Daily trend analysis [with significance level](runTrendAnalysis.py) and [without significance level](runTrendMagnitude.py) and [plotting](Daily-trends.ipynb)
 * [Annual](annualFieldSignificance.py) and [daily](dailyFieldSignificance.py) field significance
 * Various figures of [trends](Trends) and [altitude dependence](Altitude)
+
+**An updated version of the trend analysis tool can be found [here](https://github.com/skalevag/hydroTrends)**
